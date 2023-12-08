@@ -60,6 +60,7 @@ public class Cimb {
 
 
 You should display the following output:
+
 ![image](https://github.com/NorielAchero/decoratorPattern/assets/142378544/41e755ad-346b-4d26-8589-00ff57ef4d87)
 
 
